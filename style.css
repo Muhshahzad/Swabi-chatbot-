@@ -1,0 +1,18 @@
+
+
+body{
+   background-color: #5378af; 
+}
+.mainpara{
+    margin: 10px;
+}
+.paratable{
+    margin: 30px;
+}
+.paracell{
+    padding: 10px 20px 10px 20px;
+}
+.paratable td,
+.paratable th{
+    padding: 20px;
+}
